@@ -1,0 +1,24 @@
+
+@font-face {
+  font-family: 'UNITED BRK';
+  font-style: normal;
+  font-weight: normal;
+  src: local('UNITED BRK'), url('united.woff') format('woff');
+  }
+
+  .h1{
+    font-family: 'UNITED BRK', sans-serif;
+
+  }
+
+  p{
+    text-decoration: none;
+    text-decoration-color: blue;
+  }
+
+  .line{
+    
+    /* color: black; */
+    border-color: black;
+    background-color: black;
+  }
