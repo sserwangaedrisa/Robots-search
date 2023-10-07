@@ -2,8 +2,6 @@ import React from 'react';
 import Card from './Card';
 import './cardListStyle.css';
 
-import { robots } from './robots';
-
 const Cardlist = ({ robots }) => {
   return (
     <div className='mainDiv'>
