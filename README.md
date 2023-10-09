@@ -2,7 +2,8 @@
 
 ![Fun Robots](path/to/robofriends-screenshot.png)
 
-RoboFriends is a React-based web application that utilizes the RoboHash API to generate unique robot avatars. Users can search for their favorite robots by providing a name or a set of letters. The app dynamically filters and displays robots based on the search input.
+RoboFriends is a React-based web application that utilizes the RoboHash API to generate unique robot avatars. Users can search for their favorite robots by providing a name or a set of letters. The app dynamically filters and displays robots based on the search input. 
+Checkout the project functionality from here; https://robots-search-d74xwq3aa-sserwangaedrisas-projects.vercel.app/ 
 
 ## Table of Contents
 
@@ -12,6 +13,7 @@ RoboFriends is a React-based web application that utilizes the RoboHash API to g
 - [Technologies](#technologies)
 - [Contributing](#contributing)
 - [License](#license)
+- [Deployment] (https://robots-search-d74xwq3aa-sserwangaedrisas-projects.vercel.app/)
 
 ## Features
 
