@@ -18,7 +18,7 @@ Checkout the project functionality from here; https://robots-search-d74xwq3aa-ss
 ## Features
 
 - Generate and display unique robots using the RoboHash API.
-- Search for robots by entering a name or a set of letters.
+- Search for robots by entering a name or a set of letters that are inclusive in the name of one of the robots in the wesite.
 - Responsive design for seamless user experience across devices.
 
 ## Technologies
